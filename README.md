@@ -41,7 +41,7 @@
 
 [Xilinx AWS F1 xfDNN Test Drive here]: https://www.xilinx.com/applications/megatrends/machine-learning/aws-f1-test-drive.html
 [Launching Instructions]: launching_instance.md
-[Image Classification GoogLnet v1 Demo]:imagec_lassification.md
+[Image Classification GoogLnet v1 Demo]:image_classification.md
 [DeepDetect REST Tutorial]:deepdetect_rest.md
 [DeepDetect Webcam Tutorial]:deepdetect_webcam.md
 
