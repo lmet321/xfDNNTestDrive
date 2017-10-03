@@ -1,4 +1,8 @@
-# Image Classification GoogLnet v1 Demo
+# Image Classification GoogLeNet v1 Demo
+
+## Introduction
+Image classification is one of the most common benchmarks for machine learning. This tutorial will show you how to launch image classification GoogLeNet v1 demo from the test drive. Once the demo is started, you will be able to view the demo and performance of the demo from any internet connected web broswer.
+
 
 For launching and connecting to instances, [start here][].
 
@@ -20,7 +24,7 @@ For launching and connecting to instances, [start here][].
     - `classify_cat.sh` - Will send four cat images to the FPGA to classify.
     - `caffe_test.sh`   - Will run a number of calls to xfDNN using Caffe.
     - `run _demo.sh`    - Will run a Image Classification Speed of GoogLeNet v1 demo.
-    - `kill_demo.sh`    - Will kill the Image Classification .
+    - `kill_demo.sh`    - Will kill the Image Classification.
 
 4. Execute the `./run_demo.sh` script to start the demo
 	```
